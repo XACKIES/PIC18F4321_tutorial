@@ -2,7 +2,7 @@
 created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year Engineering student)
 - to be honestly , i already can use PIC-Microcontroller Series but i makes this github for Reskill for my internship.
 
-  /
+#
 ## Basics IO with Delay , Ep 1 
 (you can click at picture for watch the result , sorry if i say something weird i so sleepy at night lol )
 
