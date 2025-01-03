@@ -12,6 +12,8 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 
 
 
-## Prirority Interrupts
+## Prirority Interrupts , Ep 2
 
 [![PIC18f4321 Ep2](https://i9.ytimg.com/vi/RaiJKk_-6A4/mq3.jpg?sqp=COTh37sG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGGUgSyg_MA8=&rs=AOn4CLCpsEDsObqE3sTMCCk3lTn7cyJdtw)](https://youtu.be/RaiJKk_-6A4)
+
+[PIC18F4321_Ep_02_Interrupt project here](https://github.com/XACKIES/PIC18F4321_tutorial/tree/main/PIC18F4321_Ep_02_Interrupt.X)
