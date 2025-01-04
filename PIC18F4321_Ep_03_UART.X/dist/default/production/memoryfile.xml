@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\PIC18F4321_Ep_03_UART.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>238</used>
+      <free>7954</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>512</length>
+      <used>5</used>
+      <free>507</free>
+    </memory>
+  </executable>
+</project>
