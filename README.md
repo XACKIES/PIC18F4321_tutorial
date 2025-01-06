@@ -5,8 +5,7 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 ## Setup PIC18F4321
 
 ![image_1](https://github.com/XACKIES/PIC18F4321_tutorial/blob/main/Doc/IMG_1184.jpg)
-
-
+![Pin_out](https://github.com/XACKIES/PIC18F4321_tutorial/blob/main/Doc/Screenshot%202025-01-06%20181658.png)
 - LED line     :  RD0-RD7 ,and RC4-RC5
 - Pink LED     :  RC1
 - Switch       :  RC3RB0-RB1
