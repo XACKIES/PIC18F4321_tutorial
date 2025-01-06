@@ -12,4 +12,8 @@ created by [Kittiphop Phanthachart](https://bento.me/mac-kittiphop) (a 3rd-year 
 
 
 ## UART protocol , Ep 3
-[PIC18F4321_Ep_02_Interrupt project here](https://github.com/XACKIES/PIC18F4321_tutorial/tree/main/PIC18F4321_Ep_03_UART.X)
+[PIC18F4321_Ep_03_Interrupt project here](https://github.com/XACKIES/PIC18F4321_tutorial/tree/main/PIC18F4321_Ep_03_UART.X)
+
+
+## ADC with UART protocol , Ep 4
+[PICF18F4321_Ep4_ADC project here](https://github.com/XACKIES/PIC18F4321_tutorial/tree/main/PICF18F4321_Ep4_ADC.X)
